@@ -1,8 +1,12 @@
-# Arxiv Ideate
+<img width="1182" height="455" alt="image" src="https://github.com/user-attachments/assets/e51f683f-5849-4a3e-9088-d53f1462b483" /># Arxiv Ideate
 
 Arxiv Ideate is an intelligent research discovery engine designed to help researchers navigate the overwhelming landscape of academic literature. By processing thousands of arXiv papers through high-dimensional semantic analysis, this platform identifies research gaps and synthesizes novel, future-proof hypotheses.
 
 Whether you are a student, a researcher, or an innovator, Arxiv Ideate serves as your companion in the quest for original research directions.
+<img width="1044" height="313" alt="image" src="https://github.com/user-attachments/assets/d1dfdf1e-198e-412d-b385-63df0fa556fa" />
+<img width="1044" height="313" alt="image" src="https://github.com/user-attachments/assets/90add1d4-59f8-4e0e-859e-aaa5a89e7dc7" />
+<img width="1182" height="455" alt="image" src="https://github.com/user-attachments/assets/ab2b3d96-3133-4cf7-a9a1-ad79b7b33045" />
+
 
 ## How It Works
 
@@ -11,6 +15,8 @@ Imagine trying to read every paper published in AI over the last few years. It i
 First, the system converts every paper abstract into a mathematical vector that captures its deep meaning. It then groups similar papers into clusters. These clusters represent established research neighborhoods.
 
 The magic happens when the engine looks at the borders between these neighborhoods or combines themes from two different areas (like combining hardware optimization with emotional AI). This cross-pollination generates new ideas that would take a human researcher months to discover manually. In short, it maps what we know to help find what we don't.
+<img width="843" height="370" alt="image" src="https://github.com/user-attachments/assets/e412721c-1cab-4521-a0a3-0457a45712f4" />
+
 
 ## Core Features
 
