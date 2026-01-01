@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8ede1455-0e2d-4a9c-ae3c-41a6f4dbaa83" />
 
 Arxiv Ideate is an intelligent research discovery engine designed to help researchers navigate the overwhelming landscape of academic literature. By processing thousands of arXiv papers through high-dimensional semantic analysis, this platform identifies research gaps and synthesizes novel, future-proof hypotheses.
 
